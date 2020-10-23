@@ -1,4 +1,6 @@
-Used Bootstrap4 for UI.
+<strong>Todo List Project</strong>
+
+<p>Used Bootstrap4 for UI.</p>
 
 <strong>JS Events:</strong>
 <ul>
